@@ -1,6 +1,8 @@
 # chat_app_with_ai
 
-A new Flutter project.
+Professional Mobile App with Google Gemini API
+
+This is a fully responsive mobile app built with Flutter, designed to work seamlessly across all screen sizes. The app integrates with the Google Gemini API to provide dynamic and real-time data. The API is perfectly connected to the app, ensuring smooth performance and an excellent user experience
 
 ## Getting Started
 
