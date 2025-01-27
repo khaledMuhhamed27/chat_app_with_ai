@@ -12,7 +12,7 @@ class GeminiChatBot extends StatefulWidget {
 
 class _GeminiChatBotState extends State<GeminiChatBot> {
   final TextEditingController chatInputController = TextEditingController();
-  static const myAPIkey = 'AIzaSyAltfngqrThCmW29iIqpwOidQj466gSGng';
+  static const myAPIkey = 'your key';
   final model = GenerativeModel(model: "gemini-pro", apiKey: myAPIkey);
   final List<ModelMessage> chat = [];
   final _formKey = GlobalKey<FormState>(); //
